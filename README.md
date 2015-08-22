@@ -6,7 +6,7 @@ Everyone loves links and stuff, so here's a bunch for today:
 
 ### Most importantly
 
-Get your burrito order on the board before 11!
+Get your burrito order on the board before 11! Burritos [ordered!](burritos.csv)
 
 ### Stuff!
 
