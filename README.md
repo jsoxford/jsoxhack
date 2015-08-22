@@ -8,6 +8,10 @@ Everyone loves links and stuff, so here's a bunch for today:
 
 Get your burrito order on the board before 11!
 
+### Chat about stuff
+
+* [Gitter](https://gitter.im/jsoxford/jsoxford.github.com)
+
 ### Add to the playlist
  * spotify:user:benfoxall:playlist:0T43RIJv6CP6DcC1a6HryQ
  * https://open.spotify.com/user/benfoxall/playlist/0T43RIJv6CP6DcC1a6HryQ
