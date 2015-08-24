@@ -23,7 +23,7 @@ Add your project repo to the list below, for prosperity:
 
 * Codepen for data
 * Local tweet emoji ▶ emotion
-* Visuali(z/s)ation of sentiment analysis for thesis statements using the BMEAN* stack (*BOOM, Mongo Express Angular Node)
+* Visuali(z/s)ation of sentiment analysis for thesis statements using the BMEAN* stack (*BOOM, Mongo Express Angular Node). http://ljwall.github.io/feels/  and [repo] (https://github.com/ljwall/feels).
 * last.fm multi_user visualisations
 * reading table/phone sensors using JS and visualising via web service
 
